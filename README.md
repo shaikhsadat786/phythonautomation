@@ -1,2 +1,0 @@
-# phythonautomation
-Tester Manual
